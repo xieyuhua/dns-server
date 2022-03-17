@@ -1,0 +1,8 @@
+1678b50f66eccf44950c9a65d0a6a89d9b83d8ea19dae87b36c513731c6b5e7d  xsec-dns-proxy_0.0.1-next_Windows_i386.tar.gz
+2055012583f065f58dbdd5ffb890e49e6cc7f917f4e61f5bc3fd847a089ad7c1  xsec-dns-proxy_0.0.1-next_Windows_arm64.tar.gz
+3decf903e486c3c760ef27f148734792a4eee9b78df82a7aaf781fb6e6425c62  xsec-dns-proxy_0.0.1-next_Windows_x86_64.tar.gz
+452e491ea600721e70786448e6fc333aaf2c45ee9a37284d046e973c604a7796  xsec-dns-proxy_0.0.1-next_Linux_x86_64.tar.gz
+6a49082425ea1fba4f1c23a46a55536bf26eff2d346b640abba47f6ae4c31de5  xsec-dns-proxy_0.0.1-next_Linux_arm64.tar.gz
+827676a87c3b7bf4705d576150235b9496b1b2761dd7069d90e725d4dc479282  xsec-dns-proxy_0.0.1-next_Darwin_x86_64.tar.gz
+c94b84485c4bbf957aa791295d6ac1a4a02b4036aab0d63b5286f2a0bd013904  xsec-dns-proxy_0.0.1-next_Linux_i386.tar.gz
+ed5606a1c99b747947b056016252019ee8554fdbbe884497c51be2521931831d  xsec-dns-proxy_0.0.1-next_Darwin_arm64.tar.gz
